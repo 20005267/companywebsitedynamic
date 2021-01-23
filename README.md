@@ -25,7 +25,7 @@ Publish the website in the given URL.
 ## PROGRAME:
 
 ## BASE.HTML:
-
+```
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
@@ -58,9 +58,9 @@ Publish the website in the given URL.
 </body>
 
 </html>
-
+```
 ## HOME.HTML:
-
+```
 {% extends "companyapp/base.html" %}
 
 {% block content %}
@@ -81,9 +81,9 @@ Publish the website in the given URL.
     </div>
     </div>
 {% endblock  %}
-
+```
 ## PEOPLE.HTML:
-
+```
 {% extends "companyapp/base.html" %}
 {% load static %}
 <!DOCTYPE html>
@@ -117,8 +117,9 @@ Publish the website in the given URL.
 </body>
 
 </html>
-
+```
 ## PRODUCTS.HTML:
+```
 
 {% extends "companyapp/base.html" %}
 {% load static %}
@@ -153,9 +154,9 @@ Publish the website in the given URL.
 </body>
 
 </html>
-
+```
 ## CONTACTUS.HTML:
-
+```
 {% extends "companyapp/base.html" %}
 
 {% block content %}
@@ -173,8 +174,8 @@ with company bio data,network presence,as well as service locations </h2>
     </div>
 </div>
 {% endblock %}
-
-## OUTPUT:
+```
+## output
 
 ![output](./static/img/output1.jpg)
 
