@@ -185,15 +185,16 @@ with company bio data,network presence,as well as service locations </h2>
 
 ![output](./static/img/output4.jpg)
 
+```
 ## VALIDATION CODE REPORT:
 
-![output](./static/img/output1.jpg)
+![output](./static/img/report1.jpg)
 
-![output](./static/img/output2.jpg)
+![output](./static/img/report2.jpg)
 
-![output](./static/img/output3.jpg)
+![output](./static/img/report3.jpg)
 
-![output](./static/img/output4.jpg)
+![output](./static/img/report4.jpg)
 
 ## RESULT:
 
